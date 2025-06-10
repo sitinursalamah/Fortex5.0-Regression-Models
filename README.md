@@ -1,4 +1,4 @@
-# 🧠 Predictive Models for FORTEX 5.0: AQI & Hazardous Waste Forecasting
+# 🧠 [FORTEX 5.0] Predictive Models for AQI & Hazardous Waste 
 
 This repository contains both the preliminary and final round projects for **FORTEX 5.0**, a national-level data science competition held by HMIF UAI in 2025. I was selected as a **Top 6 Finalist** in this competition.
 
